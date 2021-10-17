@@ -7,4 +7,5 @@
   V_k(t+1) = wV_k(t) + c_1r_1 \left( X_k^{pbest}(t) - X_k(t) \right) + c_2r_2 \left( X_k^{gbest}(t) - X_k(t) \right) \\
 # 参考文献
 - (https://www.msi.co.jp/s4/introduction/pso.html)[https://www.msi.co.jp/s4/introduction/pso.html]
+- プログラムの参考[https://qiita.com/pontyo4/items/fee230fd42228d5b561a]
   
