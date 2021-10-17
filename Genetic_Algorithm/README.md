@@ -8,5 +8,5 @@
   3. 所望の終了条件(世代数の上限値など)まで逐次実効する．
   
 # 参考文献
-- プログラム参考(https://www.msi.co.jp/s4/introduction/pso.html)[https://qiita.com/aosan_qiita/items/88c5ab244208cd57ab5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items]
+- プログラム参考[https://qiita.com/aosan_qiita/items/88c5ab244208cd57ab5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items]
   
