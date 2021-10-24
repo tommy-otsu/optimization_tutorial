@@ -6,6 +6,3 @@
      - particle swarm optimization (PSO)
      - artificial bee colony (ABC)
      - genetic algorithm (GA)
- - gradient based optimization
-     - Newton method
-     - 
